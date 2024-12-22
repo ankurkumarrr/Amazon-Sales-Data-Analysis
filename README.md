@@ -705,24 +705,6 @@ call add_sales
 
 ---
 
----
 
-## **Learning Outcomes**
 
-Through this project, I gained valuable experience in:  
 
-- Designing and implementing a well-structured and normalized database schema.  
-- Cleaning and preprocessing real-world datasets to ensure data integrity and usability.  
-- Applying advanced SQL techniques such as window functions, subqueries, and complex joins to extract meaningful insights.  
-- Performing in-depth business analysis to address real-world e-commerce challenges.  
-- Optimizing query performance for handling large datasets efficiently and effectively.  
-
----
-
-## **Conclusion**
-
-This project showcases my ability to leverage SQL to address and resolve real-world business problems in the e-commerce domain. By analyzing a dataset with over 20,000 data points related to Amazon sales, I extracted actionable insights on key aspects like customer retention, inventory management, and logistics optimization.  
-
-The project not only reinforced my understanding of SQL but also demonstrated how data-driven decisions can significantly impact business operations. Completing this endeavor has enhanced my skills in analyzing complex datasets and translating them into solutions that drive informed business decisions.
-
----
