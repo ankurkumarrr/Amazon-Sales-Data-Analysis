@@ -1,6 +1,6 @@
 # **Advanced SQL Project: Amazon Sales Data Analysis**
 
-In this project, I utilized PostgreSQL to analyze a comprehensive Amazon sales dataset containing over 20,000 data points. The analysis included executing more than 20 advanced SQL queries to derive detailed insights, addressing critical business problems and enabling strategic decision-making.
+In this project, I utilized SQL queries to analyze a comprehensive Amazon sales dataset containing over 20,000 data points. The analysis included executing more than 20 advanced SQL queries to derive detailed insights, addressing critical business problems and enabling strategic decision-making.
 
 ## **Database Setup & Design**
 
